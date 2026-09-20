@@ -8,13 +8,13 @@ Backend: PHP
 Database: MySQL
 Server: XAMPP / Apache
 
-**SETUP INSTRUCTIONS**
-Demo login accounts:
- Admin: admin_demo
- Password: Admin@123
+_**SETUP INSTRUCTIONS**_
+**Demo login accounts:**
+ - Admin: admin_demo
+ - Password: Admin@123
 
-- Regular user:
- User_ID = user_demo
- Password: User@123
+**- Regular user:**
+ - User_ID = user_demo
+ - Password: User@123
 
 The project was developed as a Database Management System project, with a focus on relational database design, user authentication, CRUD operations, relationships, and practical SQL implementation.
