@@ -9,6 +9,7 @@ Database: MySQL
 Server: XAMPP / Apache
 
 _**SETUP INSTRUCTIONS**_
+
 **- Demo login accounts:**
  - Admin: admin_demo
  - Password: Admin@123
