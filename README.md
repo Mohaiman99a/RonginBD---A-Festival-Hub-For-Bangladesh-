@@ -2,17 +2,6 @@
 RonginBD – A Festival Hub for Bangladesh is a web-based community platform designed to bring Bangladesh’s festivals, traditions, food, events, travel information, shopping guides, and personal memories together in one place.
 The platform allows users to explore festival-related content, share their own experiences and information, create memories, follow other users, and bookmark content they want to revisit. Administrators can also manage official festival information through the Festival Calendar.
 
-**Main Features**
-📅 Festival Calendar
-🎉 Festival Events
-🍛 Traditional Food & Recipes
-🛍️ Festival Shopping Guide
-🚍 Travel & Transport Information
-🪷 Cultural Traditions
-📸 Festival Memories
-🔖 Bookmarks & Following
-👤 User Dashboard
-
 **Technologies Used**
 Frontend: HTML, CSS, JavaScript
 Backend: PHP
