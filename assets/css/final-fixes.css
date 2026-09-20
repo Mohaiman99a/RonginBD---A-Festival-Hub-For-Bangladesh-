@@ -1,0 +1,9 @@
+/* Shared final-week card footer: one predictable place for the primary action and bookmark. */
+.card{min-height:440px}
+.card .creator{margin-top:4px;color:var(--green)}
+.card-footer{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:auto!important;margin-bottom:14px!important}
+.card-footer .details-link{margin:0!important;padding:7px 11px;border:1px solid var(--green);border-radius:6px;text-decoration:none;font-size:13px}
+.card-footer .bookmark-form{margin:0!important}
+.owner-actions{display:flex;align-items:center;gap:10px;margin:0 18px 18px!important;padding-top:10px;border-top:1px solid var(--line)}
+.owner-actions form{margin:0}.owner-actions a{font-size:13px}.star{color:#92a099}.star.is-saved{color:var(--gold)}
+@media(max-width:760px){.card{min-height:0}}
